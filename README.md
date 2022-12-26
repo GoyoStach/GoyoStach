@@ -2,12 +2,12 @@ I am Guillaume Excoffier and i go by the GoyoStach alias.
 
 ## My interests 
 
-Typescript
-Nest
-NextJS
-React
-Docker
-SQL Database
+- Typescript
+- Nest
+- NextJS
+- React
+- Docker
+- SQL Database
 
 
 ## My futur developments
@@ -16,20 +16,20 @@ SQL Database
   - [ ] Update Readme
   - [ ] Instead of light mode, use [rose pine dawn](https://rosepinetheme.com/palette/ingredients)
 - [ ] Creating a backend API
-  - [ ] Dockerized database
-  - [ ] Heavily rely on migration and seed
-  - [ ] Type ORM
-  - [ ] NEST CLI
-  - [ ] Clean architecture
+  - [ ] Dockerized database
+  - [ ] Heavily rely on migration and seed
+  - [ ] Type ORM
+  - [ ] NEST CLI
+  - [ ] Clean architecture
 - [ ] Wiki Ideas
-  - [ ] Rose Pine and its variants (24/12) & the importance of creating an identity through a theme
-  - [ ] Clean architecture
-  - [ ] Visual Studio Code
-  - [ ] Setting up your computer for node fullstack dev (translate to english)
+  - [ ] Rose Pine and its variants (24/12) & the importance of creating an identity through a theme
+  - [ ] Clean architecture
+  - [ ] Visual Studio Code
+  - [ ] Setting up your computer for node fullstack dev (translate to english)
 - [ ] Theme Project
-  - [ ] Create a project that will have a readme with my themes such as :
-    - [ ] Rose pine ( Default / moon / Dawn)
-    - [ ] Expresso (Aurore (Light), Crépuscule (Dark))
+  - [ ] Create a project that will have a readme with my themes such as :
+    - [ ] Rose pine ( Default / moon / Dawn)
+    - [ ] Expresso (Aurore (Light), Crépuscule (Dark))
 - [ ] Create a Readme page where i will store my project ideas (this list)
 
 ## More about me
