@@ -13,7 +13,6 @@ I am Guillaume Excoffier and i go by the GoyoStach alias.
 ## My futur developments
 
 - [ ] Zettlekasten to Astro
-  - [ ] Update Readme
   - [ ] Instead of light mode, use [rose pine dawn](https://rosepinetheme.com/palette/ingredients)
 - [ ] Creating a backend API
   - [ ] Dockerized database
@@ -30,11 +29,11 @@ I am Guillaume Excoffier and i go by the GoyoStach alias.
   - [ ] Create a project that will have a readme with my themes such as :
     - [ ] Rose pine ( Default / moon / Dawn)
     - [ ] Expresso (Aurore (Light), Crépuscule (Dark))
-- [ ] Create a Readme page where i will store my project ideas (this list)
 
 ## More about me
+
 ### Work
-I am a full stack Lead tech in [Keyrus](https://keyrus.com/fr/fr/home) based in Lyon.
+I am a full stack Lead tech in [Keyrus](https://keyrus.com/fr/fr/home) based in Lyon. We are recruiting so feel free to contact me if you ever need more information !
 
 ### Education
 I graduated from [ISEP (institut supérieur d'électronique de Paris)](https://en.isep.fr/) in 2021, with a specialization in inovation and entrepreneurship. 
