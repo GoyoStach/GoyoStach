@@ -29,6 +29,13 @@ I am Guillaume Excoffier and i go by the GoyoStach alias.
   - [ ] Create a project that will have a readme with my themes such as :
     - [ ] Rose pine ( Default / moon / Dawn)
     - [ ] Expresso (Aurore (Light), Crépuscule (Dark))
+- [ ] Portfolio
+  - [ ] Refacto into NEXT 13
+  - [ ] Implement Paralax Lib
+  - [ ] Implement Aurore and Crepuscule theme
+  - [ ] Gather different assets needed ( photo, links paragraphs, ...)
+
+
 
 ## More about me
 
